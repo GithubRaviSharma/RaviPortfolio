@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="icon"  href="./Images/PenguinR.png">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('./Images/ChocolateBG.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px; /* Adjust the maximum width as needed */
+            margin: 50px auto;
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        iframe {
+            width: 100%;
+            height: 600px; /* Adjust height as needed */
+            border: none;
+        }
+
+        .download-link {
+            margin-top: 20px;
+        }
+
+        .download-link a {
+            color: white;
+            background-color: #7d2ae8;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .download-link a:hover {
+            background-color: #7d2ae8;
+        }
+
+        /* Hide the title */
+        h1 {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Replace 'Profile.pdf' with the actual filename of your LinkedIn profile PDF -->
+        <iframe src="./pdf's/Ravi'sProfile.pdf" frameborder="0"></iframe>
+        <div class="download-link">
+            <a href="./pdf's/Ravi'sProfile.pdf" download>Download PDF</a>
+        </div>
+    </div>
+</body>
+
+</html>
+
