@@ -30,11 +30,11 @@ Welcome to my professional portfolio! This portfolio showcases my projects, cert
 
 To explore my portfolio:
 
-1. Visit the portfolio website at [YourPortfolioWebsite.com](https://githubravisharma.github.io/Ravi-sPortfolio/).
+1. Visit the portfolio website at [Ravi'sPortfolio](https://githubravisharma.github.io/Ravi-sPortfolio/).
 2. Navigate through the different sections using the menu or navigation links.
 3. Watch video walkthroughs of my projects, view certifications, contact me, learn more about me, and download my resume.
 
-## Technologies Used
+## Frameworks Used
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** W3 API for contact form functionality
